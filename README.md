@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Unity to get into Game Development**
 
-- 👨‍💻 All of my projects are available at [vyral.dev](korix.dev)
+- 👨‍💻 All of my projects are available at [korix.dev](korix.dev)
 
 - 💬 Ask me about **React, Svelte, MariaDB**
 
